@@ -1,7 +1,6 @@
 
 # Job Scanner Hackathon Project
 
-## Overview  
 This repository contains the **Job Scanner class** script, one component of our hackathon project to build a web‑platform that:
 1. **Finds job positions** (in Israel or worldwide) based on user‑provided keywords.  
 2. **Tailors resumes** to match each job posting, using the user’s uploaded CV as template.
