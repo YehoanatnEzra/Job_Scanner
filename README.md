@@ -1,11 +1,8 @@
 
 # Job Scanner Hackathon Project
 ---
-A simple and efficient Python script that concurrently queries multiple job-listing APIs, filters results by keywords and locations, and exports matched listings to a CSV file. Built-in multithreading and caching minimize runtime and redundant network calls. Configurable via a simple config file for keywords, locations, and API credentials.
-
-## Overview
-
-This repository contains the **Job Scanner class** script, one component of our hackathon project to build a web‑platform that:
+This respority contains the **Job_Scanner** class that concurrently queries multiple job-listing APIs, filters results by keywords and locations, and exports matched listings to a CSV file. Built-in multithreading and caching minimize runtime and redundant network calls. Configurable via a simple config file for keywords, locations, and API credentials.
+This class is one component of our hackathon project to build a web‑platform that:
 1. **Finds job positions** (in Israel or worldwide) based on user‑provided keywords.  
 2. **Tailors resumes** to match each job posting, using the user’s uploaded CV as template.
 ל
