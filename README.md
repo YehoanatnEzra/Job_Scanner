@@ -46,11 +46,11 @@ The script fetches listings from the following external APIs via dedicated funct
 
 ## Project Structure
 
-- job_scanner.py      # Main script orchestrating job search and CSV export
-- job_finder.py       # Contains the JobFinder class for fetching listings from external job APIs
--  cache_utils.py     # Caching helper functions to store/retrieve API responses
--  config.py          # Configuration loader
--  README.md          # this file
+* job_scanner.py      - Main script orchestrating job search and CSV export
+* job_finder.py       - Contains the JobFinder class for fetching listings from external job APIs
+*  cache_utils.py     - Caching helper functions to store/retrieve API responses
+*  config.py          - Configuration loader
+*  README.md          - this file
     
 
 ## Feedback & Contact
