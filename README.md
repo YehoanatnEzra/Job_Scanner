@@ -5,9 +5,6 @@ This respority contains the **Job_Scanner** class that concurrently queries mult
 This class is one component of our hackathon project to build a web‑platform that:
 1. **Finds job positions** (in Israel or worldwide) based on user‑provided keywords.  
 2. **Tailors resumes** to match each job posting, using the user’s uploaded CV as template.
-ל
-The script in this folder is the core “job search” engine that I wrote by myself.
-It fetches and filters live job listings by keywords & location, and outputs a CSV of matching vacancies for further processing by the web front‑end and resume‑tailoring module.
 
 ---
 
