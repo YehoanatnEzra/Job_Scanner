@@ -35,11 +35,11 @@ The script fetches listings from the following external APIs via dedicated funct
 2. Filter by your keywords & locations.
 3. Write a CSV (`jobs.csv` or your chosen filename) with columns like:
 
-   * `title`
-   * `company`
-   * `location`
-   * `url`
-   * `posted_date`
+   * Title
+   * Link to apply
+   * Location`
+   * Posted date
+   * Decription
 
 
 
