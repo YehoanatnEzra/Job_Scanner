@@ -41,12 +41,11 @@ The script fetches listings from the following external APIs via dedicated funct
    * `url`
    * `posted_date`
 
----
+
 
 
 ## Project Structure
 
-```
 ├── job_scanner.py      # Main script orchestrating job search and CSV export
 ├── ├── job_finder.py       # Contains the JobFinder class for fetching listings from external job APIs
 ├── cache_utils.py      # Caching helper functions to store/retrieve API responses
