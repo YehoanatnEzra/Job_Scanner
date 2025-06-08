@@ -30,19 +30,7 @@ The script fetches listings from the following external APIs via dedicated funct
 - **Airtable (Goonzile)**: Israeli job postings (`_fetch_goonzile()`)
 - **Arbeitnow**: Global job board API (`_fetch_arbeitnow()`)
 
-
-## Installation
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YehoanatnEzra/Job-scanner.git
-   cd Job-scanner
-````
-
-
-
 ## The script will:
-
 1. Fetch listings from each configured source.
 2. Filter by your keywords & locations.
 3. Write a CSV (`jobs.csv` or your chosen filename) with columns like:
