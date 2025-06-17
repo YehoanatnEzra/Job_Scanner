@@ -1,6 +1,6 @@
 
 # Job Scanner Project
----
+
 This respority contains the **Job_Scanner** class that concurrently queries multiple job-listing APIs, filters results by keywords and locations, and exports matched listings to a CSV file. Built-in multithreading and caching minimize runtime and redundant network calls.
 This class I wrote by myself and is one component of our hackathon project to build a web‑platform that:
 1. **Finds job positions** (in Israel or worldwide) based on user‑provided keywords.  
