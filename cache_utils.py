@@ -34,4 +34,4 @@ def save_cache(cache_key, data):
         with open(path, "w", encoding="utf-8") as f:
             json.dump({"timestamp": datetime.utcnow().isoformat(), "data": data}, f)
     except Exception as e:
-        print(f"❌ Failed to write cache: {e}")
+        print(f"Failed to write cache: {e}")
