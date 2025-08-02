@@ -56,7 +56,5 @@ If you find any issues, have questions, or suggestions for improvement, feel fre
 - Email: yonzra12@gmail.com
 - Linkdin: www.linkedin.com/in/yehonatanezra
 
----
-## License
-This project is open-source and available for personal and educational use.
+
 
