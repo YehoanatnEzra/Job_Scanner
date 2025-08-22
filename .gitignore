@@ -1,0 +1,38 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Node/React
+node_modules/
+frontend/job-scanner-frontend/node_modules/
+frontend/job-scanner-frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CSV and output
+jobs.csv
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# Ignore duplicate job_scanner.py outside backend
+job_scanner.py
